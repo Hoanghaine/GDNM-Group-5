@@ -1,7 +1,7 @@
 # PsyConnect
 
 **Project Name**: PsyConnect  
-**Description**: PsyConnect là một ứng dụng giúp kết nối giữa Bác sĩ Tâm lý và Bệnh nhân.
+**Description**: PsyConnect là một ứng dụng giúp kết nối giữa Bác sĩ Tâm lý và Khách hàng.
 
 ---
 
